@@ -1,9 +1,13 @@
-Bitcoin Core integration/staging tree
+Uglycat Bitcoin Core integration/staging tree
 =====================================
 
 [![Build Status](https://travis-ci.org/bitcoin/bitcoin.svg?branch=master)](https://travis-ci.org/bitcoin/bitcoin)
 
 https://bitcoincore.org
+
+What is Uglycat-Bitcoin?
+----------------
+Uglycat0 is experimental Hierarchical fork of Bitcoin for education purpose, (Hork), which attempts to build a "bitcoin within Bitcoin", mined by including commitment-bearing transactions on the parent chain. In theory, many horks can run in parallel, and in a very deep recursion, while hypothetically, since mining effort is achieved by paying upstream fees, all horks collaborate to increase eachother's security by subsidizing hashrate on the root chain (Bitcoin). This is education purpose research software not intended to secure real funds, and should only be anchored on bitcoin testnet.
 
 What is Bitcoin?
 ----------------
